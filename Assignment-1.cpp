@@ -36,6 +36,7 @@ void displayStudents(Student students[], int n)
 {
   for (int i = 0; i < n; i++)
   {
+    // kuch nhi
     students[i].display();
   }
 
